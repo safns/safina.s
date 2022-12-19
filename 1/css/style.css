@@ -1,0 +1,25 @@
+
+div {
+    background-color: aqua ;
+    width: 800px;
+    height: 1000px;
+    margin: auto;
+}
+.text{
+    color: red;
+    font-size: 20px;
+}
+
+img {
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+    overflow: none;
+}
+p{
+    padding: 10px;
+}
+hr{
+    size: 10;
+    color: black;
+}
